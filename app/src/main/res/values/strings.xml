@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Calculator2</string>
-    <string name="calc_text"> 555 </string>
+    <string name="calc_text">0</string>
     <string name="_7">7</string>
     <string name="_8">8</string>
     <string name="_9">9</string>
@@ -17,4 +17,5 @@
     <string name="clear">CLR</string>
     <string name="add">+</string>
     <string name="equals">=</string>
+    <string name="dot">.</string>
 </resources>
